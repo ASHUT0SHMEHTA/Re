@@ -1,4 +1,5 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Q.1 What is React?
 
 React is a JavaScript library used for building user interfaces (UI), especially single-page applications (SPAs) where data changes frequently without refreshing the whole page.
